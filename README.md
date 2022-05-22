@@ -8,8 +8,6 @@ Le projet consistera à créer et à traiter une base de données NoSQL (en pass
 ## Problématique
 Comment pouvoir archiver les différentes activités spatiales ?
 
-## Démarche choisis
-
 ## Technos utilisés
 -	Python
 -	NodeJS
@@ -17,6 +15,3 @@ Comment pouvoir archiver les différentes activités spatiales ?
 -	MongoDB
 ## Outils utilisés
 -	[Trello](https://trello.com/b/ecBxt0Pw/nosql)
-## Résultats obtenus
-
-## Pour conclure
