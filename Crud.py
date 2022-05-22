@@ -1,4 +1,3 @@
-import pymongo
 from pymongo import MongoClient
 client = MongoClient('localhost',27017)  # 27017 is the default port number for mongodb
 db = client.Space
