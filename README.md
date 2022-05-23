@@ -1,5 +1,4 @@
 # Projet Final NoSQL
-## Lancer le projet
 
 ##	Description du projet
 
@@ -10,9 +9,8 @@ Comment pouvoir archiver les différentes activités spatiales ?
 
 ## Technos utilisés
 -	Python
--	NodeJS
--	VueJS
 -	MongoDB
+-	
 ## Outils utilisés
 -	[Trello](https://trello.com/b/ecBxt0Pw/nosql)
 - Kaggle : [Data set utilisé](https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957)
